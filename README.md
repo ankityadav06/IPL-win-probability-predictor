@@ -21,5 +21,5 @@ This project aims to provide cricket fans with insights into match dynamics, hel
 
 I’m looking forward to improving this model further and exploring more advanced techniques to enhance accuracy. Your feedback and suggestions are always welcome!
 
-🌟 Check out the project here: [GitHub Link or Portfolio Link]
+
 #DataScience #MachineLearning #SportsAnalytics #IPL #Cricket #Python #Streamlit
